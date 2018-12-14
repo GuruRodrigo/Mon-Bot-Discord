@@ -33,7 +33,3 @@ client.on('message', msg => {
 		}
 	}
 });
-
-
-
-client.login('NTIyNzczMTEzMTQ3MjI4MTkw.DvP3OA.Hhf_xvEPoryqKo8bOkcR3xzLomI');
